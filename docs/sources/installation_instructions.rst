@@ -16,7 +16,7 @@ We recommend installation using Anaconda_::
     conda install --yes --file requirements.txt
     conda install -c rdkit rdkit nox cairo
     conda install pytorch torchvision -c pytorch
-    pip install -e
+    pip install -e .
 
 .. _Anaconda: https://www.anaconda.com/
 Installation with Docker
